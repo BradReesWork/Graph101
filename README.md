@@ -1,4 +1,13 @@
 
 Chpater 1 - Types of Graphs
-* Undirected, simple graphs
-* Directed
+
+* Graph - undirected
+* DiGraph
+* MultiGraph
+* MultiDiGraph
+* BipartiteGraph
+* BipartiteDiGraph
+* DualGraph
+* DualDiGraph
+* HyperGraph
+* HyperDiGraph
